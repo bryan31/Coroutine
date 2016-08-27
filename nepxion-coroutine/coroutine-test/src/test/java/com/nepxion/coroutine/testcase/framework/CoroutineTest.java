@@ -61,7 +61,7 @@ public class CoroutineTest {
             }
         }, 0, 20000);
 
-        System.in.read();
+        System.in.read();  
     }
 
     @Test
